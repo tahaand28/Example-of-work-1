@@ -1,2 +1,4 @@
 # Example-of-work(Personal website)
-این یک وب‌سایت شخصی است که طراحی شده با (html/css/JavaScript) طراحی ساده و حرفه‌ای با امکان دانلود رزومه، نمایش مهارت‌ها و فرم تماس، آن را برای معرفی خدمات و جذب فرصت‌های شغلی مناسب کرده است .
+This is a personal website designed with (html/css/JavaScript) simple and professional design with the ability to download a resume, display skills and a contact form, making it suitable for introducing services and attracting job opportunities.
+
+<img src="Example-of-work-1.png">

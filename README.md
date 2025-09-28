@@ -4,3 +4,5 @@
 opportunities.
     <img src="Example-of-work-1.png" width="950">
     <img src="Example-of-work-1(mob).png">
+      <img src="Macbook-Air.png">
+        <img src="iPhone-13-(iOS-15).png">

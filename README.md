@@ -3,3 +3,5 @@ This is a personal website designed with (html/css/JavaScript) simple and profes
 
 <img src="Example-of-work-1.png">
 <img src="Example-of-work-1(mob).png">
+<img src="Macbook-Air.png">
+<img src="iPhone-13-(iOS-15).png">
